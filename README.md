@@ -1,16 +1,19 @@
-## Hi there 👋
+#  ¡Hola! 
 
-<!--
-**srojasz23/srojasz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este espacio es de **uso académico** y está destinado a compartir las **aplicaciones desarrolladas en clase** como parte de los cursos de programación, bases de datos y desarrollo de sistemas.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🎓 Propósito
+El contenido publicado aquí tiene fines **educativos**, para el aprendizaje y práctica de temas vistos en clase.  
+No representa proyectos comerciales ni de uso profesional.
+
+
+### 💻 Contenido
+- Ejemplos de código en **C#**, **SQL Server**, y **.NET**  
+- Proyectos de laboratorio y ejercicios guiados  
+- Material complementario de enseñanza
+
+
+
+📫 _Repositorio creado para fines académicos_
